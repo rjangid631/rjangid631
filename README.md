@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Rohan Jangid (@rjangid631)
 
 🚀 Passionate Full Stack Developer (specializing in Java and Python)  
-🎓 Currently pursuing a degree in Computer Engineering  
+🎓 Currently Graduated from Savitribai Phule University in Computer Engineering  
 👀 Interested in building scalable web applications and solving real-world problems  
 💻 Looking to collaborate on innovative Full Stack Development projects  
 📬 Reach me at: **rohanjangid631@gmail.com**  
