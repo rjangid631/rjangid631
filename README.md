@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,50:FFDC80,100:667eea&height=300&section=header&text=Rohan%20Jangid&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Specialist&descAlignY=51&descAlign=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,50:FFDC80,100:667eea&height=280&section=header&text=Rohan%20Jangid&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=51&descAlign=62" />
 
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&pause=1000&color=667EEA&center=true&vCenter=true&width=600&height=70&lines=👋+Hello,+I'm+Rohan+Jangid;🚀+Backend+Architecture+Expert;💻+Full+Stack+Developer;🎯+Problem+Solving+Enthusiast;☕+Code+%2B+Coffee+%3D+Magic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=500&height=60&lines=👋+Hello,+I'm+Rohan+Jangid;💻+Software+Developer+at+U4RAD;🌱+Learning+%26+Growing+Daily;🚀+Building+Real-World+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Computer_Engineering-Graduate-success?style=flat-square&labelColor=667eea&color=764ba2" />
-  <img src="https://img.shields.io/badge/💼_Status-Open_to_Work-brightgreen?style=flat-square&labelColor=667eea&color=f093fb" />
+  <img src="https://img.shields.io/badge/🎓_Computer_Engineering-Recent_Graduate-success?style=flat-square&labelColor=667eea&color=764ba2" />
+  <img src="https://img.shields.io/badge/💼_Currently-Software_Developer-brightgreen?style=flat-square&labelColor=667eea&color=f093fb" />
   <img src="https://img.shields.io/badge/📍_Location-Faridabad,_India-red?style=flat-square&labelColor=667eea&color=4facfe" />
 </p>
 
@@ -17,7 +17,6 @@
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-667eea?style=for-the-badge&logo=globe&logoColor=white&labelColor=764ba2)](https://portfoliowebsite-two-beige.vercel.app)
 [![Email](https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=FF6B6B)](mailto:rohanjangid631@gmail.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-in&logoColor=white&labelColor=4facfe)](https://www.linkedin.com/in/rohan-jangid-a54b68229/)
-[![Resume](https://custom-icon-badges.demolab.com/badge/-Download_Resume-success?style=for-the-badge&logo=download&logoColor=white&labelColor=f093fb)](https://portfoliowebsite-two-beige.vercel.app)
 
 </div>
 
@@ -27,31 +26,34 @@
 
 <div align="center">
 
-## 🌟 Welcome to My Digital Universe
+## 🌟 About Me
 
-<img align="right" alt="Developer working" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Developer working" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 </div>
 
 ```javascript
 const rohan = {
-    pronouns: "He" | "Him",
+    currentRole: "Software Developer at U4RAD Technology",
+    experience: "6 months internship + Current full-time role",
+    education: "Computer Engineering Graduate (SPPU)",
     location: "Faridabad, India 🇮🇳",
-    education: "Computer Engineering Graduate 🎓",
-    currentStatus: "Seeking Full-time Opportunities",
     
-    expertise: {
-        backend: ["Java", "Python", "Spring Boot", "Django"],
-        frontend: ["React", "JavaScript", "HTML5", "CSS3"],
+    techStack: {
+        comfortable: ["Java", "Python", "JavaScript"],
+        frameworks: ["Django", "Spring Boot", "React"],
         databases: ["PostgreSQL", "MySQL"],
-        tools: ["Docker", "Git", "Postman", "VS Code"],
-        architecture: ["REST APIs", "Microservices", "MVC"]
+        tools: ["Git", "VS Code", "Postman", "Docker (learning)"]
     },
     
-    currentFocus: "Building scalable backend systems",
-    funFact: "I can debug code faster than I can make coffee ☕",
+    currentFocus: [
+        "Building healthcare solutions",
+        "Learning system design patterns",
+        "Improving code quality & best practices"
+    ],
     
-    motto: "Clean Code, Better Solutions, Endless Learning 🚀"
+    personalGrowth: "From intern to developer in 6 months! 📈",
+    motto: "Every day is a learning opportunity 🌱"
 };
 ```
 
@@ -59,65 +61,55 @@ const rohan = {
 
 ---
 
-## 🎯 Professional Journey
+## 🎯 My Professional Journey
 
 <div align="center">
 
-### 🏢 **Current Status: Ready for New Challenges!**
+### 📈 **Growth Timeline**
 
-<img src="https://img.shields.io/badge/Experience-7+_Months_Internship-blue?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=667eea" />
-<img src="https://img.shields.io/badge/Projects-6+_Professional_Projects-green?style=for-the-badge&logo=code&logoColor=white&labelColor=4facfe" />
-<img src="https://img.shields.io/badge/Specialization-Backend_Development-red?style=for-the-badge&logo=server&logoColor=white&labelColor=f093fb" />
+<img src="https://img.shields.io/badge/Jan_2025-Started_Internship-blue?style=for-the-badge&logo=calendar&logoColor=white&labelColor=667eea" />
+<img src="https://img.shields.io/badge/July_2025-Promoted_to_Developer-green?style=for-the-badge&logo=trophy&logoColor=white&labelColor=4facfe" />
+<img src="https://img.shields.io/badge/Current-Growing_&_Learning-orange?style=for-the-badge&logo=trending-up&logoColor=white&labelColor=f093fb" />
 
 </div>
 
 ---
 
-## 🛠️ Technology Ecosystem
-
-<details open>
-<summary><b>🔥 Core Technologies & Tools</b></summary>
-<br>
+## 🛠️ Technologies I Work With
 
 <div align="center">
 
-### **Programming Languages**
+### **Languages I'm Comfortable With**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-### **Frameworks & Libraries**
+### **Frameworks & Tools I Use**
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,django,react,nodejs,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=django,spring,react,bootstrap,git" />
 </p>
 
-### **Databases & Cloud**
+### **Databases & Development Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,vscode,postman,github" />
 </p>
 
-### **Development Tools**
+### **Currently Learning**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
-
-### **Web Technologies**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,sass" />
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+  <img src="https://img.shields.io/badge/System_Design-Learning-yellow?style=for-the-badge&logo=architecture&logoColor=white" />
 </p>
 
 </div>
 
-</details>
-
 ---
 
-## 🚀 Professional Experience & Projects
+## 🚀 My Work at U4RAD Technology
 
 <div align="center">
 
-### 💼 **U4RAD Technology | Software Development Intern**
-*Jan 2025 – July 2025*
+### 💼 **Software Developer** *(July 2025 - Present)*
+### 🎓 **Software Development Intern** *(Jan 2025 - July 2025)*
 
 </div>
 
@@ -126,92 +118,81 @@ const rohan = {
 <td width="50%" valign="top">
 
 ### 🏥 **Healthcare Solutions**
-- **🔄 DICOM Automation Suite**
-  - [`Orthanc Job Monitor`](https://github.com/rjangid631/U4rad-Orthanc-Job-Monitor-.git) - Automated DICOM uploads
-  - [`Web Upload Platform`](https://github.com/rjangid631/U4RAD_DICOM_UPLOAD_PROJECT.git) - React-based file manager
-  
-- **🏕️ Camp Management System**
-  - [`Camp Automation`](https://github.com/rjangid631/campautomation.git) - Complete health camp solution
-  - Real-time dashboards & analytics
 
-**Tech Stack:** `Python` `Django` `React` `PostgreSQL`
+**🔄 DICOM File Management**
+- [`Automated Upload Tool`](https://github.com/rjangid631/U4rad-Orthanc-Job-Monitor-.git)
+  - Python-based automation for medical files
+  - Integrated with Orthanc PACS system
+  
+- [`Web Upload Platform`](https://github.com/rjangid631/U4RAD_DICOM_UPLOAD_PROJECT.git)
+  - Django + React file management system
+  - Drag-and-drop interface with progress tracking
+
+**Tech Used:** `Python` `Django` `React` `REST APIs`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 **Enterprise Tools**
-- **🧾 IT Service Management**
-  - [`Help Desk System`](https://github.com/rjangid631/HelpDesk.git) - Ticketing & workflow optimization
-  - Role-based access control
-  
-- **📱 Digital Forms & QR Integration**
-  - Medical data collection systems
-  - ECG dashboard enhancements
-  - Mobile-responsive interfaces
+### 🎯 **Management Systems**
 
-**Tech Stack:** `Django REST` `Bootstrap` `JavaScript` `MySQL`
+**🏕️ Camp Automation**
+- [`Health Camp Management`](https://github.com/rjangid631/campautomation.git)
+  - Complete camp scheduling and tracking
+  - Dashboard with data visualization
+  
+**🧾 IT Support System**
+- [`Help Desk Platform`](https://github.com/rjangid631/HelpDesk.git)
+  - Ticket management and workflow optimization
+  - User role management
+
+**Tech Used:** `Django` `PostgreSQL` `JavaScript` `Bootstrap`
 
 </td>
 </tr>
 </table>
 
+### 📱 **Additional Projects**
+- **QR Code Forms** - Digitized medical data collection (Google Forms alternative)
+- **ECG Dashboard** - Enhanced UI for health camp reporting
+- **Database Optimization** - Improved query performance for existing systems
+
 ---
 
-## 📊 GitHub Analytics & Insights
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rjangid631&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=rjangid631&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=f093fb&fire=667eea&currStreakLabel=f093fb" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rjangid631&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.demolab.com/?user=rjangid631&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjangid631&layout=compact&theme=radical&hide_border=true&title_color=667eea&text_color=c9d1d9&bg_color=0d1117" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjangid631&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rjangid631&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rjangid631&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
-</div>
-
----
-
-## 🎯 What I Bring to Your Team
+## 🌱 What I'm Learning & Improving
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/code.png"/>
-<h3>🔧 Technical Excellence</h3>
-<p><em>Clean, scalable code with best practices</em></p>
+<img src="https://img.icons8.com/color/64/000000/code.png"/>
+<h3>🔧 Code Quality</h3>
+<p><em>Writing cleaner, more maintainable code</em></p>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/teamwork.png"/>
-<h3>🤝 Team Collaboration</h3>
-<p><em>Effective communication & project delivery</em></p>
+<img src="https://img.icons8.com/color/64/000000/system-design.png"/>
+<h3>🏗️ System Design</h3>
+<p><em>Understanding scalable architecture patterns</em></p>
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/color/96/000000/innovation.png"/>
-<h3>💡 Problem Solving</h3>
-<p><em>Creative solutions for complex challenges</em></p>
+<img src="https://img.icons8.com/color/64/000000/api.png"/>
+<h3>🌐 API Development</h3>
+<p><em>Building robust RESTful services</em></p>
 </td>
 </tr>
 </table>
@@ -220,111 +201,142 @@ const rohan = {
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 📈 My Learning Goals
 
 <div align="center">
 
 ```mermaid
-mindmap
-  root((Learning Journey))
-    Microservices
-      Spring Cloud
-      API Gateway
-      Service Discovery
-    Cloud Technologies
-      AWS Services
-      Docker Compose
-      Kubernetes Basics
-    Advanced Concepts
-      System Design
-      Database Optimization
-      Caching Strategies
+graph TD
+    A[Current Skills] --> B[Intermediate Goals]
+    B --> C[Advanced Goals]
+    
+    A --> A1[Django & Spring Boot]
+    A --> A2[Basic Database Design]
+    A --> A3[Frontend Development]
+    
+    B --> B1[System Design Patterns]
+    B --> B2[Docker & Containerization]
+    B --> B3[Advanced SQL Optimization]
+    
+    C --> C1[Microservices Architecture]
+    C --> C2[Cloud Technologies AWS]
+    C --> C3[Performance Optimization]
 ```
 
 </div>
 
 ---
 
-## 📝 Latest Blog Posts & Insights
+## 🏆 My Growth Milestones
 
-<!-- BLOG-POST-LIST:START -->
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rjangid631&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" />
+
+### **Professional Achievements**
+- ✅ Successfully completed 6-month internship
+- ✅ Promoted to full-time Software Developer
+- ✅ Delivered 6+ production-ready projects
+- ✅ Working with real healthcare systems
+- 🎯 Building expertise in backend development
+
+</div>
+
+---
+
+## 💭 What I Bring as a Junior Developer
+
+<div align="center">
+
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
+<h4>🧠 <b>Quick Learner</b></h4>
+<p><em>From intern to developer in 6 months</em></p>
+</td>
+<td align="center" width="25%">
+<h4>🎯 <b>Problem Solver</b></h4>
+<p><em>Built solutions for real healthcare challenges</em></p>
+</td>
+<td align="center" width="25%">
+<h4>📚 <b>Growth Mindset</b></h4>
+<p><em>Always eager to learn new technologies</em></p>
+</td>
+<td align="center" width="25%">
+<h4>🤝 <b>Team Player</b></h4>
+<p><em>Collaborative approach to development</em></p>
+</td>
+</tr>
+</table>
 
-### 📚 **Technical Articles**
-- Building Scalable REST APIs with Spring Boot
-- Django Best Practices for Enterprise Applications
+</div>
+
+---
+
+## 🎯 Current Focus Areas
+
+<div align="center">
+
+### 📖 **What I'm Working On**
+
+<img src="https://img.shields.io/badge/📊_System_Design-Learning_Fundamentals-blue?style=for-the-badge&logo=architecture" />
+<img src="https://img.shields.io/badge/🐳_Docker-Containerization_Basics-lightblue?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/☁️_AWS-Cloud_Computing_Intro-orange?style=for-the-badge&logo=amazon-aws" />
+
+### 🎓 **Resources I'm Using**
+- System Design Interview Books
+- Docker & Kubernetes Tutorials  
+- AWS Free Tier Exploration
+- Clean Code Practices
 - Database Optimization Techniques
 
-</td>
-<td width="50%">
-
-### 🎯 **Project Case Studies**
-- DICOM File Processing at Scale
-- Healthcare Management System Architecture
-- Real-time Dashboard Implementation
-
-</td>
-</tr>
-</table>
-</div>
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🎨 Fun Zone
-
-<div align="center">
-
-### 🎵 **Coding Playlist**
-*What I listen to while coding:*
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_id&unique=true" />
-
-### ☕ **Coffee Counter**
-*Cups of coffee consumed while coding this month:*
-
-<img src="https://img.shields.io/badge/☕_Coffee_Consumed-147_cups-brown?style=for-the-badge&logo=coffee" />
-
-### 🎯 **Current Mood**
-<img src="https://img.shields.io/badge/Current_Status-🚀_Ready_to_Code-success?style=for-the-badge" />
-
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 🤝 Let's Connect!
 
 <div align="center">
 
-### 💼 **Ready to work together? Let's make something amazing!**
+### 💼 **I'm interested in:**
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
+<h4>🌟 <b>Learning Opportunities</b></h4>
+<p><em>Mentorship & knowledge sharing</em></p>
+</td>
+<td align="center" width="33%">
+<h4>🤝 <b>Collaboration</b></h4>
+<p><em>Working on interesting projects</em></p>
+</td>
+<td align="center" width="33%">
+<h4>💡 <b>Tech Discussions</b></h4>
+<p><em>Sharing experiences & best practices</em></p>
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="33%">
 <a href="https://portfoliowebsite-two-beige.vercel.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-667eea?style=for-the-badge&labelColor=764ba2" />
-<br><sub><b>View My Work</b></sub>
+<img src="https://img.shields.io/badge/🌐_Portfolio-See_My_Work-667eea?style=for-the-badge&labelColor=764ba2" />
+<br><sub><b>My Projects</b></sub>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="mailto:rohanjangid631@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-EA4335?style=for-the-badge&labelColor=FF6B6B" />
-<br><sub><b>Direct Contact</b></sub>
+<img src="https://img.shields.io/badge/📧_Email-Let's_Chat-EA4335?style=for-the-badge&labelColor=FF6B6B" />
+<br><sub><b>Get In Touch</b></sub>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <a href="https://www.linkedin.com/in/rohan-jangid-a54b68229/">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Network-0A66C2?style=for-the-badge&labelColor=4facfe" />
-<br><sub><b>Professional Profile</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://portfoliowebsite-two-beige.vercel.app">
-<img src="https://img.shields.io/badge/📄_Resume-Download_PDF-success?style=for-the-badge&labelColor=f093fb" />
-<br><sub><b>My CV</b></sub>
+<img src="https://img.shields.io/badge/💼_LinkedIn-Professional_Connect-0A66C2?style=for-the-badge&labelColor=4facfe" />
+<br><sub><b>Network</b></sub>
 </a>
 </td>
 </tr>
@@ -332,15 +344,7 @@ mindmap
 
 <br>
 
-### 📬 **Open for:**
-- 💼 **Full-time Backend/Full Stack Developer positions**
-- 🤝 **Freelance & Contract opportunities**  
-- 💡 **Collaborative projects & open source contributions**
-- 🎓 **Mentoring & knowledge sharing**
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+happy+to+connect+and+collaborate!+%E2%9C%A8" alt="Footer Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Thanks+for+checking+out+my+profile!+%F0%9F%91%8B;Always+excited+to+learn+and+grow!+%F0%9F%9A%80;Let's+connect+and+share+knowledge!+%E2%9C%A8" alt="Footer Typing SVG" />
 
 </div>
 
@@ -348,15 +352,10 @@ mindmap
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=rjangid631&color=667eea&style=for-the-badge&label=PROFILE+VISITORS" />
-<img src="https://img.shields.io/github/followers/rjangid631?label=Followers&style=for-the-badge&color=f093fb&labelColor=667eea" />
+<img src="https://komarev.com/ghpvc/?username=rjangid631&color=667eea&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
 
 </div>
